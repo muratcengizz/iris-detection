@@ -1,0 +1,8 @@
+path: C:/Users/murat/Documents/computer_vision3/iris_detection
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['iris', 'pupille']
+
